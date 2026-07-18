@@ -33,5 +33,6 @@ This project strengthened my understanding of:
 
 ## Demo
 
-A demonstration video of the website is included in this repository.
-Screenshots of the completed website are also available in the repository.
+Screenshots of the completed website are available in the repository.
+Please click on the link below to access the demonstration video 
+https://youtu.be/YvQ1_efBgQ0
