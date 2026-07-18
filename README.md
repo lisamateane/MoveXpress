@@ -16,6 +16,7 @@ Using the Twenty Twenty-Five WordPress theme as a foundation, I designed each pa
 - WordPress
 - Gutenberg Block Editor
 - CSS
+- Local by Flywheel
 - Twenty Twenty-Five Theme
 
 ## Challenges
